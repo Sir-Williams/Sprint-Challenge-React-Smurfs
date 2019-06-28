@@ -1,0 +1,12 @@
+1. Client side routing is run by a local computer and usually only sends data out Data can easily be changed.
+    Server side routing is running off of a dedicated machine to recieve, proccess, and
+    send out data. Data in this type of routing can not easily be cahnged.
+
+2. HTTP stands for HyperText Transfer Protocol.
+
+3. CRUD stands for Create, Read, Update, Delete.
+
+4. Get and Read so they can take in each individual components of the server.
+
+5. 3 tools that can be used to make AJAX are Fetch, Axios and jQuery. If those are not right
+    then we can use .then(), .catch(), and fetch().
